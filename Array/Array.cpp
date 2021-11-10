@@ -2,7 +2,6 @@
 // Допустим N = 9
 
 #include <iostream>
-#include <array>
 using namespace std;
 
 int main()
